@@ -24,7 +24,7 @@ Here are the steps to use this device
   * Select Tools->Burn Bootloader
 
   * Here is a youtube video that goes through the steps 
-  ![My tube](http://www.youtube.com/loadbootloader)
+  ![My tube](http://www.youtube.com/watch?v=82v-E5TkgYQ&feature=youtu.be)
 
   * To make a stand-alone devie, reference this simple drawing: 
   ![My drawing](https://github.com/Paulware/BootLoaderShield/raw/master/images/atmega328.jpg)
