@@ -1,4 +1,4 @@
-This shield works well with the [DIY ARDUINO](https://www.tindie.com/shops/Paulware/diy-arduino/) available at tindie.
+This [shield](https://www.tindie.com/shops/Paulware/bootloader-shield/) works well with the [DIY ARDUINO](https://www.tindie.com/shops/Paulware/diy-arduino/) available at tindie.
 You will also need a [USB Programmer](https://www.tindie.com/shops/Paulware/usb-to-serial-programmer/) from tindie. 
 
 The shield also works well with the Duemilanove but does not work with the UNO.
