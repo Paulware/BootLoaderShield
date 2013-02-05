@@ -15,8 +15,16 @@ Here are the steps to use this device
   * Place the populated shield in the DIY Arduino
 ![My image](https://github.com/Paulware/BootLoaderShield/raw/master/images/ReadyToRun.jpg)
 
+  * Connect the usb serial programmer to your computer and upload the bootloader.ino sketch to the DIY Arduino
+  
+  * Select Tools->Board type you are going to flash with the bootloader ( Arduino Duemilanove w/ATmega328 or Duemilanove w/ATmega168)
+  
+  * Select Tools->Programmer->Arduino as ISP
+  
+  * Select Tools->Burn Bootloader
+
   * Here is a youtube video that goes through the steps 
-![My tube](http://www.youtube.com/loadbootloader)
+  ![My tube](http://www.youtube.com/loadbootloader)
 
   * To make a stand-alone devie, reference this simple drawing: 
   ![My drawing](https://github.com/Paulware/BootLoaderShield/raw/master/images/atmega328.jpg)
