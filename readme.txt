@@ -3,5 +3,10 @@ Here is a link to some documentation on the bootloader:
    
    
 [alt text](https://github.com/Paulware/BootLoaderShield/raw/master/images/AlmostReady.jpg "Logo Title Text 1")
-   
- [[images/AlmostReady.jpg]] 
+
+Last tested in Arduino V1.02
+Also works with Duemilanove (but not Arduino Uno)
+
+![title](http://your/link.png)
+[title](https://github.com/Paulware/BootLoaderShield/raw/master/images/AlmostReady.jpg)
+
