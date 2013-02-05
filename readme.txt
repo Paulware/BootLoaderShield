@@ -1,2 +1,2 @@
-Here is a writeup on the bootloader: 
-   readme.htm
+Here is a link to some documentation on the bootloader: 
+   <A HREF="readme.htm">Documentation</a>
