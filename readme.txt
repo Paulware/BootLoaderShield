@@ -1,3 +1,6 @@
+![My image](https://github.com/Paulware/BootLoaderShield/raw/master/images/AlmostReady.jpg)
+![img](https://rawgithub.com/Paulware/BootLoaderShield/master/images/AlmostReady.jpg)
+
 Here is a link to some documentation on the bootloader: 
    https://rawgithub.com/Paulware/BootLoaderShield/master/readme.htm
    
